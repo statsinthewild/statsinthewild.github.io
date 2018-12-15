@@ -1,7 +1,7 @@
-name: "radixblogtest"
-title: "blogtest"
+name: "radixtestblog2"
+title: "My Blog"
 description: |
-  blogtest
+  My Blog
 output_dir: "docs"
 navbar:
   right:
