@@ -1,7 +1,15 @@
 ---
-title: "Welcome to blogtest"
+title: "Welcome to My Blog"
+- text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Contributors"
+      href: contributors.html
+    - icon: fa fa-rss
+      href: index.xml
 description: |
-  Welcome to our new blog, blogtest. We hope you enjoy 
+  Welcome to our new blog, My Blog. We hope you enjoy 
   reading what we have to say!
 author:
   - name: Nora Jones 

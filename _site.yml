@@ -1,0 +1,12 @@
+name: "radixblogtest"
+title: "blogtest"
+description: |
+  blogtest
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: radix::radix_article
